@@ -1,0 +1,25 @@
+item {
+    name: "Circle",
+    id: 1,
+    display_name: "Circle"
+}
+item {
+    name: "Decision",
+    id: 2,
+    display_name: "Decision"
+}
+item {
+    name: "Oval",
+    id: 3,
+    display_name: "Oval"
+}
+item {
+    name: "Rectangle",
+    id: 4,
+    display_name: "Rectangle"
+}
+item {
+    name: "Square",
+    id: 5,
+    display_name: "Square"
+}
